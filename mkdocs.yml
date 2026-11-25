@@ -1,8 +1,8 @@
 site_name: DevOps Operations Handbook
 site_description: Учебная документация по проверке и публикации изменений
-site_author: Боровских Алекандр Романович
+site_author: Боровских Александр Романович
 repo_name: Rennix5321/devops-docs
-repo_url: https://github.com/<login>/devops-docs
+repo_url: https://github.com/Rennix5321/devops-docs
 theme:
  name: mkdocs
  locale: ru
